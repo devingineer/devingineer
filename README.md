@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devin</h1>
 <h3 align="center">Passionate, curious, and always learning more about cybersecurity and the web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowowl888&label=Profile%20views&color=0e75b6&style=flat" alt="shadowowl888" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devingineer&label=Profile%20views&color=0e75b6&style=flat" alt="devingineer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowowl888" alt="shadowowl888" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devingineer" alt="devingineer" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://devin-khun.vercel.app)
+- 🔭 I’m currently working on [My portfolio](https://devingineer.github.io)
 
 - 🌱 I’m currently learning **MERN, AWS Tools, Machine Learning**
 
